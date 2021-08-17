@@ -1,5 +1,5 @@
 import random
-fileloc = "/Users/donti/Desktop/Programming/Incomplete Projects/Quote Generator/Markov/data.txt"
+fileloc = "(Enter rest of the directory here)/data.txt"
 data = (open(fileloc)).read()    
 dataset = data.split(' ')
 newset = []
